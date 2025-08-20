@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk mengotomatisasi proses pelaporan, penugasan, dan anal
 
 ### 📸 Screenshot
 _Complaint Form UI_
-![Complaint Form Screenshot](./public/docs/complaint-form-page.png);
+![Complaint Form Screenshot](./public/docs/complaint-form-page.png)
 
 ---
 
